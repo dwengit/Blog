@@ -17,3 +17,6 @@ C:\Users\devin\Code\NetCore\Blog\Blog.Core.Services\bin\Debug\netcoreapp2.1\Blog
 C:\Users\devin\Code\NetCore\Blog\Blog.Core.Services\obj\Debug\netcoreapp2.1\Blog.Core.Services.csproj.CopyComplete
 C:\Users\devin\Code\NetCore\Blog\Blog.Core.Services\obj\Debug\netcoreapp2.1\Blog.Core.Services.dll
 C:\Users\devin\Code\NetCore\Blog\Blog.Core.Services\obj\Debug\netcoreapp2.1\Blog.Core.Services.pdb
+C:\Users\devin\Code\NetCore\Blog\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Services.deps.json
+C:\Users\devin\Code\NetCore\Blog\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Services.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Services.pdb

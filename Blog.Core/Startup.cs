@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Blog.Core.IServices;
-using Blog.Core.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -131,11 +130,13 @@ namespace Blog.Core
 
             #region 注册要通过反射创建组件
 
-            var assemblysServices = Assembly.Load("Blog.Core.Services");
-
+            var servicesDllFile = Path.Combine(basePath, "Blog.Core.Services.dll");//获取注入项目绝对路径
+            var assemblysServices = Assembly.LoadFile(servicesDllFile);//直接采用加载文件的方法
+            
             builder.RegisterAssemblyTypes(assemblysServices).AsImplementedInterfaces(); //指定已扫描程序集中的类型注册为提供所有其实现的接口。
 
-            var assemblysRepository = Assembly.Load("Blog.Core.Repository");
+            var repositionDllFile = Path.Combine(basePath, "Blog.Core.Repository.dll");//获取注入项目绝对路径
+            var assemblysRepository = Assembly.LoadFile(repositionDllFile);
 
             builder.RegisterAssemblyTypes(assemblysRepository).AsImplementedInterfaces();
 

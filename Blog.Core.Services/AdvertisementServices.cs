@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using Blog.Core.IRepository;
 using Blog.Core.IServices;
 using Blog.Core.Model.Models;
-using Blog.Core.Repository;
 using Blog.Core.ServicesBase;
 
 namespace Blog.Core.Services
@@ -15,15 +14,10 @@ namespace Blog.Core.Services
     public class AdvertisementServices : BaseServices<Advertisement>, IAdvertisementServices
     {
         IAdvertisementRepository dal;
-        //public AdvertisementServices(IAdvertisementRepository dal)
-        //{
-        //    this.dal = dal;
-        //    baseBaseDal = dal;
-        //}
-
-        public AdvertisementServices()
+        public AdvertisementServices(IAdvertisementRepository dal)
         {
-            this.dal = new AdvertisementRepository();
+            this.dal = dal;
+            base.baseDal = dal;
         }
 
         public void ReturnExp()

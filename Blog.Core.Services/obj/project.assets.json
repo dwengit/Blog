@@ -2328,20 +2328,6 @@
         "runtime": {
           "bin/placeholder/Blog.Core.Model.dll": {}
         }
-      },
-      "Blog.Core.Repository/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Blog.Core.IRepository": "1.0.0",
-          "sqlSugarCore": "4.9.7"
-        },
-        "compile": {
-          "bin/placeholder/Blog.Core.Repository.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Blog.Core.Repository.dll": {}
-        }
       }
     }
   },
@@ -7420,18 +7406,12 @@
       "type": "project",
       "path": "../Blog.Core.Model/Blog.Core.Model.csproj",
       "msbuildProject": "../Blog.Core.Model/Blog.Core.Model.csproj"
-    },
-    "Blog.Core.Repository/1.0.0": {
-      "type": "project",
-      "path": "../Blog.Core.Repository/Blog.Core.Repository.csproj",
-      "msbuildProject": "../Blog.Core.Repository/Blog.Core.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Blog.Core.IRepository >= 1.0.0",
       "Blog.Core.IServices >= 1.0.0",
-      "Blog.Core.Repository >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -7470,9 +7450,6 @@
             },
             "C:\\Users\\devin\\Code\\NetCore\\Blog\\Blog.Core.IServices\\Blog.Core.IServices.csproj": {
               "projectPath": "C:\\Users\\devin\\Code\\NetCore\\Blog\\Blog.Core.IServices\\Blog.Core.IServices.csproj"
-            },
-            "C:\\Users\\devin\\Code\\NetCore\\Blog\\Blog.Core.Repository\\Blog.Core.Repository.csproj": {
-              "projectPath": "C:\\Users\\devin\\Code\\NetCore\\Blog\\Blog.Core.Repository\\Blog.Core.Repository.csproj"
             }
           }
         }

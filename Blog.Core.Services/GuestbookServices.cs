@@ -16,7 +16,7 @@ namespace Blog.Core.Services
         public GuestbookServices(IGuestbookRepository dal)
         {
             this.dal = dal;
-            //BaseBaseDal = dal;
+            base.baseDal = dal;
         }
     }
 }

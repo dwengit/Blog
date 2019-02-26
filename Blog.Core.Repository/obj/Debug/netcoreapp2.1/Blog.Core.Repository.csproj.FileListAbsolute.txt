@@ -13,3 +13,6 @@ C:\Users\devin\Code\NetCore\Blog\Blog.Core.Repository\bin\Debug\netcoreapp2.1\Bl
 C:\Users\devin\Code\NetCore\Blog\Blog.Core.Repository\obj\Debug\netcoreapp2.1\Blog.Core.Repository.csproj.CopyComplete
 C:\Users\devin\Code\NetCore\Blog\Blog.Core.Repository\obj\Debug\netcoreapp2.1\Blog.Core.Repository.dll
 C:\Users\devin\Code\NetCore\Blog\Blog.Core.Repository\obj\Debug\netcoreapp2.1\Blog.Core.Repository.pdb
+C:\Users\devin\Code\NetCore\Blog\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Repository.deps.json
+C:\Users\devin\Code\NetCore\Blog\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Repository.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core\bin\Debug\netcoreapp2.1\Blog.Core.Repository.pdb
