@@ -1,0 +1,13 @@
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\bin\Debug\netcoreapp2.1\Blog.Core.IServices.deps.json
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\bin\Debug\netcoreapp2.1\Blog.Core.IServices.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\bin\Debug\netcoreapp2.1\Blog.Core.IServices.pdb
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\bin\Debug\netcoreapp2.1\Blog.Core.Model.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\bin\Debug\netcoreapp2.1\Blog.Core.Model.pdb
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\bin\Debug\netcoreapp2.1\Blog.Core.Model.xml
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\obj\Debug\netcoreapp2.1\Blog.Core.IServices.csprojAssemblyReference.cache
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\obj\Debug\netcoreapp2.1\Blog.Core.IServices.csproj.CoreCompileInputs.cache
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\obj\Debug\netcoreapp2.1\Blog.Core.IServices.AssemblyInfoInputs.cache
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\obj\Debug\netcoreapp2.1\Blog.Core.IServices.AssemblyInfo.cs
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\obj\Debug\netcoreapp2.1\Blog.Core.IServices.csproj.CopyComplete
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\obj\Debug\netcoreapp2.1\Blog.Core.IServices.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IServices\obj\Debug\netcoreapp2.1\Blog.Core.IServices.pdb

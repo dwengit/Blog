@@ -1,0 +1,13 @@
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.deps.json
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.IRepository.pdb
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.Model.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.Model.pdb
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\bin\Debug\netcoreapp2.1\Blog.Core.Model.xml
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.csprojAssemblyReference.cache
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.AssemblyInfoInputs.cache
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.AssemblyInfo.cs
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.csproj.CopyComplete
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.dll
+C:\Users\devin\Code\NetCore\Blog\Blog.Core.IRepository\obj\Debug\netcoreapp2.1\Blog.Core.IRepository.pdb
